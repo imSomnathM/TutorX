@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "368431942162",
+    "project_id": "tutorx-666",
+    "storage_bucket": "tutorx-666.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368431942162:android:0fc6f853f19adcff4fe6cb",
+        "android_client_info": {
+          "package_name": "com.tutorx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368431942162-p41gr00klrr2k5jjpe25ehc0mabrabmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorx",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "368431942162-4dfp70n8n47cv0gh00rmrgtubqrf1pph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9fj__xtCTe49PG5A4FqicpXTb5y3NXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368431942162-4dfp70n8n47cv0gh00rmrgtubqrf1pph.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368431942162-b0fe8rbs7ravgh5h9n75ugqvs0rt9787.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tutorx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
